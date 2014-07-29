@@ -4,6 +4,9 @@
   <remote  name="aosp"
            fetch="http://android.googlesource.com/" />
            
+  <remote  name="SmoothKat"
+           fetch="https://github.com/SmoothKat" />
+           
   <default revision="refs/tags/android-4.4.4_r2"
            remote="aosp"
            sync-j="4" />
