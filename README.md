@@ -5,7 +5,7 @@ To get started with Android/SmoothKat, you'll need to get familiar with [Git and
 
 To initialize your local repository using the SmoothKat trees, use a command like this:
 
-repo init -u https://github.com/SmoothKat/SmoothKat_manifest.git -b kitkat
+repo init -u https://github.com/SmoothKat/SmoothKat_manifest-test.git -b kitkat
 
 And then sync up the repo:
 
